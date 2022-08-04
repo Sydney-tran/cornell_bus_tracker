@@ -1,11 +1,3 @@
-# cornell_bus.py helps you to make the cornell bus on time!
-# - web scrapes tompkins tcat (aka cornell university bus) website that has real time information
-# - outputs departure time and minutes until departure and updates every 20 seconds
-# - controls leds connected to raspberry pi to show minutes until departure
-#   - color slowly changes from blue to red as departure time approaches
-#   - number of pixels lit up in a row = number of minutes until departure time
-#   - at 5 minutes until departure, flashes leds on and off
-
 import re
 import time
 import board
