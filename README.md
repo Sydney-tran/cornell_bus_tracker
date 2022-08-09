@@ -1,4 +1,4 @@
-# cornell bus tracker
+## raspberry pi cornell bus tracker
 
 raspberry pi cornell bus tracker helps you to make the cornell bus on time!
 with cornell_bus_tracker.py and a raspberry pi connected to led light strips, you will know when to leave your dorm room to catch the tcat bus from any stop just by looking at the leds in your room! just input the route, stop, direction, departure number and recieve real time departure info!
