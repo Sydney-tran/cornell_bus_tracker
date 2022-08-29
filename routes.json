@@ -95,6 +95,18 @@
     {
       "num": 82,
       "name": "Cornell Campus Service - East Hill Offic"
+    },
+    {
+      "num": 83,
+      "name": "Cornell North Campus Service"
+    },
+    {
+      "num": 90,
+      "name": "Ithaca Commons - Cornell University"
+    },
+    {
+      "num": 92,
+      "name": "Cornell Campus Service-Nights"
     }
   ]
 }
