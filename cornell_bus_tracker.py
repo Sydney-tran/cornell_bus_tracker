@@ -11,13 +11,13 @@ tcat_url = 'https://realtimetcatbus.availtec.com/InfoPoint/Minimal/'
 
 pause_time = 20.0
 
-wait_time = 0.001
+wait_time = 0.0
 
 flash_time = 1
 
 pixel_pin = board.D18
 
-num_pixels = 300
+num_pixels = 600
 
 ORDER = neopixel.GRB
 pixels = neopixel.NeoPixel(
